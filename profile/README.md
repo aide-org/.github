@@ -8,4 +8,4 @@
 - [Tech Stack]()
 - [Entities]()
 - [Visuals]()
-- [Web Architecture](../docs/WEB_ARCH.md)
+- [Web Architecture](./WEB_ARCH.md)
