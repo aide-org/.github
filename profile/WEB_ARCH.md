@@ -8,12 +8,11 @@
     - Date, Time, and Number Formatting
     - Accessibility (screen readers support multiple languages)
 3. State Management: `Redux`
-4. Authentication:  `SupabaseAuth` | `NextAuth` | `Auth0`
-5. UI Library: `Shadcn`
-6. Forms: `react-hook-form`
-7. Validation: `zod`
-8. Video/Voice Calls: `Peerjs`
-9. Socket: `Socket.io`
+4. UI Library: `Shadcn`
+5. Forms: `react-hook-form`
+6. Validation: `zod`
+7. Video/Voice Calls: `Peerjs`
+8. Socket: `Socket.io`
 
 ### Frontend Accessibility
 
@@ -26,8 +25,8 @@
 1. Framework: `Nest.js`
 2. Authentication: `Passport.js`
 3. Database:
-    - DB: `PostgresQL`
-    - ORM: `Drizzle`
+    - DB: `PostgresQL` & `MongoDB` & `Redis`
+    - ORM: `Drizzle` & `Mongoose`
 4. Real Time: `Socket.io`
 5. Validation: `zod` | `class-validator`
 6. Email: `Nodemailer` with `googleApp`
@@ -48,11 +47,8 @@
 1. `README.md` file explaining the project's purpose
     - setup instructions
     - high-level architecture
-2. API Documentation:
-    - Endpoints
-    - Request/response formats
+2. API Documentation: `Swagger`
 3. State Management:
-    - Redux actions, reducers, and selectors
     - State structure and organization
 4. Utility Functions
     - Purpose of each utility function
@@ -66,7 +62,7 @@
 
 1. Hosting & Deployment: Client: `Vercel`, Server: `Vercel`
 2. Containerization: `Docker`
-3. GitHub Checks: `EsLint`, `Prettier`, `Vercel preview`
+3. GitHub Checks: `EsLint`, `Prettier`, `Vercel preview`, `CircleCI`
 
 ### Security
 
